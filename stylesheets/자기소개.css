@@ -1,0 +1,26 @@
+body, html{
+padding:0;
+margin:0;
+}
+.header{
+text-align:center;
+background-color:white;
+}
+.main-contents{
+background-color:gray;
+padding:10em;
+padding-top:0;
+padding-bottom:0;
+}
+.footer{
+text-align:center;
+border-top:1px solid:black;
+padding: 1em;
+
+}
+.footprint{
+    padding:10em;
+    padding-top:0;
+    padding-bottom:0;
+    margin-bottom: 1em;
+}
